@@ -1,0 +1,34 @@
+[
+  {
+    "package": "knitrBoostrap",
+    "url": "https://github.com/jimhester/knitrBoostrap"
+  },
+  {
+    "package": "lintr",
+    "url": "https://github.com/jimhester/lintr"
+  },
+  {
+    "package": "bloom",
+    "url": "https://github.com/jimhester/bloom"
+  },
+  {
+    "package": "lambda",
+    "url": "https://github.com/jimhester/lambda"
+  },
+  {
+    "package": "lookup",
+    "url": "https://github.com/jimhester/lookup"
+  },
+  {
+    "package": "autoinst",
+    "url": "https://github.com/jimhester/autoinst"
+  },
+  {
+    "package": "completeme",
+    "url": "https://github.com/jimhester/completeme"
+  },
+  {
+    "package": "thank",
+    "url": "https://github.com/jimhester/thank"
+  }
+]
