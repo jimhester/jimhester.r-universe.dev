@@ -1,7 +1,7 @@
 [
   {
-    "package": "knitrBoostrap",
-    "url": "https://github.com/jimhester/knitrBoostrap"
+    "package": "knitrBootstrap",
+    "url": "https://github.com/jimhester/knitrBootstrap"
   },
   {
     "package": "lintr",
